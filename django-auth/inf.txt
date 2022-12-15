@@ -1,0 +1,2 @@
+# before installing mysqlclient install its dependency in pc if not already as "sudo apt install libmysqlclient-dev".
+# remote addr "https://github.com/QandeelKhan/fullstack-auth-1.git"
